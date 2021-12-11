@@ -1,0 +1,2 @@
+# Technologies used:
+- Vanilla JavaScript 
